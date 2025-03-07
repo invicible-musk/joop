@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:13:07	51482/51482	---MCZ	200	added ('OK')	text/html	date:Thu,%2009%20Jan%202025%2017:13:08%20GMT	https://demo.joomshaper.com/?template=istore-ii	C:/Users/incredibl_erudite/Desktop/Eccomerce%20web%20temp/demo.joomshaper.com/indexb14c.html	(from )
+20:13:07	241/241	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2009%20Jan%202025%2017:13:09%20GMT	https://demo.joomshaper.com/robots.txt		(from )
+20:13:07	41662/41662	---MCZ	200	added ('OK')	image/vnd.microsoft.icon	etag:W/%22a2be-5a5b054421f80%22	https://demo.joomshaper.com/assets/images/favicon.ico	C:/Users/incredibl_erudite/Desktop/Eccomerce%20web%20temp/demo.joomshaper.com/assets/images/favicon.ico	(from https://demo.joomshaper.com/?template=istore-ii)
